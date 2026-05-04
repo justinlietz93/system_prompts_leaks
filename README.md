@@ -161,7 +161,7 @@ Updated regularly with new models and versions. PRs welcome.
 | Proton Lumo AI | [System prompt](Misc/proton-lumo-ai.md) |
 | Sesame AI Maya | [System prompt](Misc/Sesame-AI-Maya.md) |
 | Character AI | [System prompt](Misc/character-ai.md) |
-| Flint K12 | [System prompt](Anthropic/FlintK12/prompt.md) · [Tools](Anthropic/FlintK12/tools.md) · [Tools](Anthropic/FlintK12/user-info.md) |
+| Flint K12 | [System prompt](Anthropic/FlintK12/prompt.md) · [Tools](Anthropic/FlintK12/tools.md) · [User info](Anthropic/FlintK12/user-info.md) |
 
 ---
 

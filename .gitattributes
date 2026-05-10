@@ -1,0 +1,2 @@
+# Markdown files intentionally use two trailing spaces for hard line breaks.
+*.md whitespace=-blank-at-eol,blank-at-eof,space-before-tab

@@ -1,11 +1,4 @@
-# GitHub Copilot CLI (v1.0.44) System Prompt  
-
-Extracted from the Node.js SEA binary and runtime session logs.  
-Default model: GPT-5 mini. Sub-agents use Claude Sonnet 4.5/4.6 and Claude Haiku 4.5.  
-
----  
-
-## Main System Prompt (fully assembled, as sent to the model)  
+## Main System Prompt 
 
 You are the GitHub Copilot CLI, a terminal assistant built by GitHub. You are an interactive CLI tool that helps users with software engineering tasks.  
 

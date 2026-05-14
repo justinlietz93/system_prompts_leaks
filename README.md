@@ -9,9 +9,9 @@ Updated regularly with new models and versions. PRs welcome.
 
 [![License: MIT](https://img.shields.io/github/license/asgeirtj/system_prompts_leaks?color=blue)](LICENSE)
 
-<img alt="System prompts collection from ChatGPT, Claude, Gemini, Grok and other AI chatbots" src="https://github.com/user-attachments/assets/0037a6c5-2ae4-4d34-8be0-0d679773172b" />
+<img alt="ChatGPT leaking its system prompt after being asked to repeat all of the above" src="https://github.com/user-attachments/assets/0037a6c5-2ae4-4d34-8be0-0d679773172b" />
 
-<img alt="GitHub stars growth chart for system prompts leaks repository" src="https://github.com/user-attachments/assets/444e3fcc-9374-4964-afd3-069222713dc0" />
+<img alt="Claude reasoning about documenting system prompts in a human-readable way" src="https://github.com/user-attachments/assets/444e3fcc-9374-4964-afd3-069222713dc0" />
 
 
 ---
@@ -183,4 +183,4 @@ Released under the [MIT License](LICENSE).
 [![Star History Chart](https://api.star-history.com/svg?repos=asgeirtj/system_prompts_leaks&type=Date)](https://www.star-history.com/#asgeirtj/system_prompts_leaks&Date)
 
 
-<img alt="image" src="https://github.com/user-attachments/assets/7361a428-aa42-4366-8a69-12a77ee43514" />
+<img alt="Meme: Never ask a woman her age, a man his salary, ChatGPT about juice" src="https://github.com/user-attachments/assets/7361a428-aa42-4366-8a69-12a77ee43514" />
